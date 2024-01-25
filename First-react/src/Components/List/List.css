@@ -1,0 +1,12 @@
+#default{
+   color: white;
+}
+
+#green{
+   color: darkolivegreen;
+   list-style-type:square;
+}
+
+#dect{
+   list-style-type:decimal;
+}

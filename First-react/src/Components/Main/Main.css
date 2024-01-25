@@ -1,0 +1,38 @@
+.Wraper{
+   margin: 0 auto;
+   width: 1048px;
+   display: flex;
+   box-shadow: 1px 1px 5px black;
+   font-family: sans-serif;
+}
+aside{
+   width: 30%;
+   background-color: darkolivegreen;
+}
+
+
+aside .contents {
+   padding: 50px 30px;
+   color: white;
+
+}
+
+aside .contents .lists {
+   padding-top: 30px;
+}
+
+aside img {
+   width: 100%;
+   padding: 50px 0px;
+}
+
+
+
+section{
+   width: 70%;
+   background-color:#f1f1f1;
+}
+
+section {
+   padding: 50px;
+}
